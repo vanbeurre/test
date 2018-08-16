@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/leopard.jpg); 
+}
+h1{
+    color: white; 
+    text-align:center; 
+    text-shadow: 5px; 
+    align-content: center;
+    text-decoration: bold; 
+}
+
+li{
+    margin: 0 47%; 
+    color: white;
+    text-decoration: bold; 
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 47%;
+    text-decoration: bold; 
+}
