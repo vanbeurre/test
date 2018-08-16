@@ -7,20 +7,24 @@ h1,p,h3{
     text-align:center; 
     text-shadow: 5px; 
     align-content: center;
+    text-decoration: bold; 
 }
 p{
     font-size: 30px;
 }
 h2{
     color: white; 
-    text-align: center
+    text-align: center;
+    text-decoration: bold; 
 }
 li{
     margin: 0 47%; 
     color: white;
+    text-decoration: bold; 
 }
 a{
     text-decoration: none;
+    text-decoration: bold; 
     color: white;
     margin: 0 48%; 
 }
