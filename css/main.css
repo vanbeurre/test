@@ -1,14 +1,27 @@
 body{
     background-image: url(../img/leopard.jpg); 
+
 }
-h1,p{
+h1,p,h3{
     color: white; 
     text-align:center; 
     text-shadow: 5px; 
+    align-content: center;
 }
 p{
     font-size: 30px;
 }
-h2, li{
+h2{
     color: white; 
+    text-align: center
 }
+li{
+    margin: 0 47%; 
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0 48%; 
+}
+
